@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.blog{
+  width:50%;
+  background-color: lightpink ;
+  padding: 10px;
+  margin: 10px auto;
+
+}
+.blog h2{
+  color: white;
+  background-color: lightcoral;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.blog h5{
+  color: blueviolet;
+  font-style: italic;
+}
+.blog p{
+  background-color:lightgray ;
+}
+.blog-img{
+  width: 300px;
+  
+}
